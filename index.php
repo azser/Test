@@ -6,3 +6,4 @@ echo 'Voici le corps de la page';
 ?>
 </body>
 </html>
+test
